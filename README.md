@@ -39,3 +39,44 @@ This project is a robust E-commerce application built with Ruby on Rails 7, Hotw
    ```bash
    git clone https://github.com/your-user/ecommerce-rails7.git
    cd ecommerce-rails7
+Install dependencies:
+
+Bash
+
+bundle install
+yarn install
+Set up the database:
+
+Bash
+
+rails db:create db:migrate db:seed
+Configure environment variables:
+
+Stripe, AWS S3, etc. (see .env.example)
+Start the server:
+
+Bash
+
+rails server
+🧪 Tests
+Bash
+
+bundle exec rspec
+🖼️ Screenshots
+Admin Dashboard	Shopping Cart
+Dashboard	Cart
+💡 Best Practices
+Separate authentication for admin and user
+Use of partials for reusable UI components
+SQL injection prevention
+Webhooks for Stripe integration
+Fully responsive design
+📄 License
+MIT License
+
+👤 Author
+Your Name
+LinkedIn | GitHub
+text
+
+
