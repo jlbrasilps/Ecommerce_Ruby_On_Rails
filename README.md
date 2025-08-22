@@ -71,17 +71,21 @@ Use of partials for reusable UI components
 SQL injection prevention
 Webhooks for Stripe integration
 Fully responsive design
-📄 License
-MIT License
+
 
 👤 Author
-Your Name
-LinkedIn | GitHub
-text
+João Lucas Cardoso
+LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-lucas-cardoso-jlbra/
 
 
 
 
 
-https://github.com/user-attachments/assets/c742b87a-c43f-4fa0-bb8f-6d07eb9c86ec
+
+https://github.com/user-attachments/assets/0575cd34-aa7b-4e87-981e-9b4fd3ec56c5
+
+
+
+
+
 
